@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm KyrosXvi 👋</h1>
+<h1 align="center">Hi there, I'm Kyrozzz 👋</h1>
 
 <p align="center">
   <em>Full-Stack Developer | Building with JavaScript, TypeScript & Python</em>
